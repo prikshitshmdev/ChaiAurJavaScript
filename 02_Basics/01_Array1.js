@@ -62,3 +62,16 @@ console.log("B", myArr);
 
 
 
+const newArr1= ["Prikshit","Is","Learning","JS"]
+console.log(newArr1.join());
+
+
+const sliceArray = [10,20,30,40,50]
+ console.log(sliceArray.slice(1,4));
+ 
+
+ console.log(sliceArray.splice(1,2));
+
+ console.log(sliceArray);
+ 
+ 
